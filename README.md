@@ -27,6 +27,12 @@ aws configure --profile "name_user"
 
 https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-20-04
 
+comandos git
+
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
+
+https://comandosgit.github.io/
+
 - Gerando uma chave ssh no github e configurando localmente no linux.
 
 https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
