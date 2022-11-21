@@ -7,6 +7,7 @@ Estudo com terraform, posteriormente terragrand.
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 
 obs: existem algumas extensoes interessantes a serem instaladas.
+file/preferences/extensions
 
 hashicorp
 
@@ -49,3 +50,31 @@ terraform init
 export AWS_ACCESS_KEY_ID=
 
 export AWS_SECRET_ACCESS_KEY=
+
+
+
+
+
+
+
+
+
+- exemplos de comandos terraform
+
+https://imasters.com.br/codigo/provisionamento-de-recursos-com-o-terraform
+
+terraform -v
+
+terraform -h
+
+terraform init
+
+terraform plan -out="tf.out"
+
+terraform apply -auto-approve 
+
+terraform fmt
+
+terraformm validate
+
+terraform plan -var="AWS_PROFILE=tf133"
