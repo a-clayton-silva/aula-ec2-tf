@@ -1,5 +1,7 @@
 # aula-ec2-tf
 
+Estudo com terraform, posteriormente terragrand.
+
 - Instalando terraform.
 
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
@@ -22,6 +24,12 @@ ls
 
 cd github
 
+code .
+
 terraform init
 
+- configurando variavel temporaria de credentials aws
 
+export AWS_ACCESS_KEY_ID=
+
+export AWS_SECRET_ACCESS_KEY=
