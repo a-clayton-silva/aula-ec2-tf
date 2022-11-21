@@ -14,7 +14,11 @@ https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generati
 
 - Criando pasta repositorio local
 
+pwd
+
 mkdir github
+
+ls
 
 cd github
 
