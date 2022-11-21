@@ -15,7 +15,9 @@ https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generati
 - Criando pasta repositorio local
 
 mkdir github
+
 cd github
+
 terraform init
 
 
