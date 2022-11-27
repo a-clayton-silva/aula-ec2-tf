@@ -11,6 +11,6 @@ terraform {
   }
 }
 
-resource "aws_s3_bucket" "bucket" {
-  bucket = "exampleclaytonrs"
-}
+# resource "aws_s3_bucket" "bucket" {
+#   bucket = "exampleclaytonrs"
+# }
